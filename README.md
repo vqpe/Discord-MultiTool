@@ -1,16 +1,17 @@
-# Discord-MultiTool - Schuh Rewrite
-## [!NOTE]
+## :::note
 Supports: Windows 10, 11 [Other Versions untested]
 Fully request based, i will not add selfbot support using discord.py-self etc
 Star the Repo for more amazing Updates in the Future.
 Make sure that you have `VirtualTerminalLevel` set to `1` for the best experience. --> [Tutorial](Tutorial)
+:::
 
-## [!WARNING]
+## :::warning
 This project is not intended for production use, and its code may not adhere to best practices or security standards. It is solely meant for educational purposes, providing examples, and encouraging experimentation.
 
 I am not responsible for any misuse or damage caused using this tool. Users are advised to comply with the terms of the [MIT License](MIT License) and use this tool responsibly.
+:::
 
-## [!TIP]
+## :::tip
 To get started with this tool, follow these steps:
 
 1. **Download:**
@@ -24,3 +25,4 @@ To get started with this tool, follow these steps:
 
 3. **For Executable (.exe):**
     * Simply run the downloaded executable file.
+:::
