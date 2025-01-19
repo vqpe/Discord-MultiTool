@@ -1,6 +1,5 @@
 # Schuh Rewrite
 ![schuh-rewrite](https://schuh.pages.dev/resources/images/schuh.png)
-#
 
 > [!NOTE]
 > Supports: Windows 10, 11 [Other Versions untested]  
