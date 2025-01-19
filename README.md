@@ -26,3 +26,5 @@
 >
 > 3. **For Executable (.exe):**
 >    * Simply run the downloaded executable file.
+
+* Probably wont be updated anymore, maybe if discord does a groundbreaking change that breaks the Tool, can't promise though.
