@@ -1,5 +1,8 @@
 # Schuh Rewrite
 ![schuh-rewrite](https://schuh.pages.dev/resources/images/schuh.png)
+* Probably wont be updated anymore, maybe if discord does a groundbreaking change that breaks the Tool, can't promise though.
+
+
 
 > [!NOTE]
 > Supports: Windows 10, 11 [Other Versions untested]  
@@ -26,5 +29,3 @@
 >
 > 3. **For Executable (.exe):**
 >    * Simply run the downloaded executable file.
-
-* Probably wont be updated anymore, maybe if discord does a groundbreaking change that breaks the Tool, can't promise though.
