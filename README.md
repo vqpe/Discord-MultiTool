@@ -1,8 +1,10 @@
-## >NOTE
-> Supports: Windows 10, 11 [Other Versions untested]
-Fully request based, i will not add selfbot support using discord.py-self etc
-Star the Repo for more amazing Updates in the Future.
-Make sure that you have `VirtualTerminalLevel` set to `1` for the best experience. --> [Tutorial](Tutorial)
+> **Note**  
+> Supports: Windows 10, 11 [Other Versions untested]  
+> Fully request-based, I will not add selfbot support using discord.py-self, etc.  
+> Star the Repo for more amazing Updates in the Future.  
+> Make sure that you have `VirtualTerminalLevel` set to `1` for the best experience.  
+> [Tutorial](#)
+
 
 ## [!WARNING]
 This project is not intended for production use, and its code may not adhere to best practices or security standards. It is solely meant for educational purposes, providing examples, and encouraging experimentation.
