@@ -2,8 +2,6 @@
 ![schuh-rewrite](https://schuh.pages.dev/resources/images/schuh.png)
 * Probably wont be updated anymore, maybe if discord does a groundbreaking change that breaks the Tool, can't promise though.
 
-
-
 > [!NOTE]
 > Supports: Windows 10, 11 [Other Versions untested]  
 > Fully request-based, I will not add selfbot support using discord.py-self, etc.  
