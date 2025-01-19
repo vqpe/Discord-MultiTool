@@ -1,7 +1,6 @@
 ##########################################
 #     Licensed under the MIT License     #
 #    I do not take any responsibility    #
-# github.com/Schuh1337/Discord-MultiTool #
 # schuh.lol/schuhrewrite | made by Schuh #
 ##########################################
 vers = "v0.2.7"
@@ -517,7 +516,7 @@ while True:
             if scroll_disabled: scroll_enable()
             print(gradient_text("[#] Getting Latest Version.."))
             try:
-                response = requests.get("https://api.github.com/repos/Schuh1337/Discord-MultiTool/releases/latest")
+                response = requests.get("https://api.github.com/repos/vqpe/Discord-MultiTool/releases/latest")
                 if response.status_code == 200:
                     latest_version = response.json().get('tag_name')
                     if latest_version:
