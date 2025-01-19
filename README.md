@@ -1,4 +1,4 @@
-> **Note**  
+> [!NOTE]
 > Supports: Windows 10, 11 [Other Versions untested]  
 > Fully request-based, I will not add selfbot support using discord.py-self, etc.  
 > Star the Repo for more amazing Updates in the Future.  
