@@ -1,5 +1,5 @@
 # Schuh Rewrite
-![schuh-rewrite](https://schuh.pages.dev/images/schuh.png)
+![schuh-rewrite](https://schuh.pages.dev/resources/images/schuh.png)
 * Probably wont be updated anymore, maybe if discord does a groundbreaking change that breaks the Tool, can't promise though.
 
 > [!NOTE]
