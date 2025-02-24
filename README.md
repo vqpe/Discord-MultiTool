@@ -11,7 +11,7 @@
 > [!WARNING]
 > This project is not intended for production use, and its code may not adhere to best practices or security standards. It is solely meant for educational purposes, providing examples, and encouraging experimentation.
 >
-> I am not responsible for any misuse or damage caused using this tool. Users are advised to comply with the terms of the [MIT License](MIT License) and use this tool responsibly.
+> I am not responsible for any misuse or damage caused using this tool. Users are advised to comply with the terms of the [MIT License](https://github.com/vqpe/Discord-MultiTool?tab=MIT-1-ov-file) and use this tool responsibly.
 
 > [!TIP]
 > To get started with this tool, follow these steps:
