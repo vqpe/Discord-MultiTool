@@ -18,7 +18,7 @@
 >
 > 1. **Download:**
 >    * If you prefer the source code, download the repo as a [zip file](https://github.com/vqpe/Discord-MultiTool/archive/refs/heads/main.zip). Extract the file and navigate to the extracted directory.
->    * If you prefer the compiled executable (.exe), download it directly from the [Releases](Releases) section.
+>    * If you prefer the compiled executable (.exe), download it directly from the [Releases](https://github.com/vqpe/Discord-MultiTool/releases) section.
 >
 > 2. **For Source Code:**
 >    * Ensure [Python](Python) 3.10 or later is installed on your system.
