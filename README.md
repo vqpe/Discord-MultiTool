@@ -3,7 +3,7 @@
 * Probably wont be updated anymore, maybe if discord does a groundbreaking change that breaks the Tool, can't promise though.
 
 > [!NOTE]
-> Supports: Windows 10, 11 [Other Versions untested]  
+> Supports: Windows 10, 11 [Other Versions/OS untested]  
 > Fully request-based, I will not add selfbot support using discord.py-self, etc.  
 > Star the Repo for more amazing Updates in the Future.  
 > Make sure that you have `VirtualTerminalLevel` set to `1` for the best experience. -> [Tutorial](https://www.youtube.com/watch?v=HeJOyEw3RtM)
@@ -17,7 +17,7 @@
 > To get started with this tool, follow these steps:
 >
 > 1. **Download:**
->    * If you prefer the source code, download the repo as a [zip file](zip file). Extract the file and navigate to the extracted directory.
+>    * If you prefer the source code, download the repo as a [zip file](https://github.com/vqpe/Discord-MultiTool/archive/refs/heads/main.zip). Extract the file and navigate to the extracted directory.
 >    * If you prefer the compiled executable (.exe), download it directly from the [Releases](Releases) section.
 >
 > 2. **For Source Code:**
